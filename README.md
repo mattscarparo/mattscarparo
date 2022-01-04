@@ -1,4 +1,8 @@
-### Hi there 👋
+## Olá! Eu sou o Matheus Scarparo! =)
+
+- 🔭 Hoje estou realizando uma transição de carreira para a área dev
+- 🌱 Estudando: Front-End (Html, CSS, JavaScript) e Back-End (NodeJs)
+- 🙆🏻‍♂️ Profissional: Experiência com gestão de pessoas, metodologias ágeis, foco no cliente, dentre outras...
 
 <!--
 **mattscarparo/mattscarparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
