@@ -1,6 +1,12 @@
-## Olá! Eu sou o Matheus Scarparo! =)
+![Sobre-mim](https://user-images.githubusercontent.com/93354612/149807673-ade139bb-7fcf-4efb-ba4c-4a59bc9c1616.png)
 
-- 🔭 Hoje estou realizando uma transição de carreira para a área dev
+Olá Mundo!
+
+Me chamo Matheus Scarparo, moro em Londrina - PR, sou formado em Direito e tenho especialização em Gestão Empresarial. Sempre fui apaixonado por tecnologias e games, porém nunca tive um contato tão a fundo com programação e desenvolvimento de sites e aplicações anteriormente. Após ter contato com automatizações e com profissionais da área, passei a me interessar cada vez mais, passei a estudar programação e me apaixonei pela área. 
+
+Atualmente estou em início de carreira, porém estou estudando todos os dias, procurando me desenvolver cada vez mais na área para uma futura transição de carreira!
+
+- 🔭 Hoje estou buscando uma transição de carreira para a área dev
 - 🌱 Estudando: Front-End (Html, CSS, JavaScript) e Back-End (NodeJs)
 - 🙆🏻‍♂️ Profissional: Experiência com gestão de pessoas, metodologias ágeis, foco no cliente, dentre outras...
 - 📖 Portifólio/Projetos: Por ainda estar no início, estarei colocando aos poucos, porém podem ir acompanhando, pois irei atualizar de maneira recorrente! =))
