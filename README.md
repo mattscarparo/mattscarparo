@@ -7,7 +7,7 @@ Me chamo <b>Matheus Scarparo</b>, moro em Londrina - PR, sou formado em Direito 
 Atualmente estou em início de carreira, porém estou estudando todos os dias, procurando me desenvolver cada vez mais na área para uma futura transição de carreira!
 
 - 🤗 <b>Status:</b> Esturando e buscando uma transição de carreira para a área dev
-- 📖 <b>Estudando:</b> Front-End (Html, CSS, JavaScript) e Back-End (NodeJs)
+- 📖 <b>Estudando:</b> Ruby, Ruby on Rails e Front-End (Html, CSS, JavaScript)
 - 🙆🏻‍♂️ <b>Profissional:</b> Experiência com gestão de pessoas, metodologias ágeis, foco no cliente, dentre outras...
 - 💼 <b>Portifólio/Projetos:</b> Por ainda estar no início, estarei colocando aos poucos, porém podem ir acompanhando, pois irei atualizar de maneira recorrente! =))
 - 🎮 <b>Curiosidades:</b> Sou apaixonado por animais, games, mangás/animes e Fórmula 1! Gosto sempre de atualizar meus conhecimentos e saio pesquisando coisas mais diversas possíveis! 
