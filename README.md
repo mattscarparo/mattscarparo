@@ -2,7 +2,7 @@
 
 Olá Mundo!
 
-Me chamo <b>Matheus Scarparo</b>, moro em Londrina - PR, sou formado em Direito e tenho especialização em Gestão Empresarial. Sempre fui apaixonado por tecnologias e games, porém nunca tive um contato tão a fundo com programação e desenvolvimento de sites e aplicações anteriormente. Após ter contato com automatizações e com profissionais da área, passei a me interessar cada vez mais, passei a estudar programação e me apaixonei pela área. 
+Me chamo <b>Matheus Scarparo</b>, moro em Londrina - PR e sou estudante de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologias e games, porém nunca tive um contato tão a fundo com programação e desenvolvimento de sites e aplicações anteriormente. Após ter contato com automatizações e com profissionais da área, passei a me interessar cada vez mais, passei a estudar programação e me apaixonei pela área. 
 
 Atualmente estou em início de carreira, porém estou estudando todos os dias, procurando me desenvolver cada vez mais na área para uma futura transição de carreira!
 
