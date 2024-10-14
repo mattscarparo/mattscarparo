@@ -2,11 +2,11 @@
 
 ### Olá Mundo!
 
-Me chamo <b>Matheus Scarparo</b>, moro em Londrina - PR e sou estudante de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologias e games, porém nunca tive um contato tão a fundo com programação e desenvolvimento de sites e aplicações anteriormente. Após ter contato com automatizações e com profissionais da área, passei a me interessar cada vez mais, passei a estudar programação e me apaixonei pela área. 
+Me chamo <b>Matheus Scarparo</b>, moro em Londrina - PR e sou estudante de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologia. Após ter contato com a área de desenvolvimento e engenharia de software, passei a me interessar cada vez mais pela área, resolvendo iniciar meus estudos em programação e análise e desenvolvimento de sistemas. Foi à partir daí que me apaixonei pela área. 
 
 Atualmente estou em início de carreira, porém estou estudando todos os dias, procurando me desenvolver cada vez mais na área para uma futura transição de carreira!
 
-- 📖 <b>Estudando:</b> Ruby, Ruby on Rails e Front-End (Html, CSS, JavaScript)
+- 📖 <b>Estudando:</b> JavaScript - NodeJs
 - 🙆🏻‍♂️ <b>Profissional:</b> Experiência com gestão de pessoas, metodologias ágeis, foco no cliente, dentre outras...
 - 🎮 <b>Curiosidades:</b> Sou apaixonado por animais, games, mangás/animes e Fórmula 1! Gosto sempre de atualizar meus conhecimentos e saio pesquisando coisas mais diversas possíveis! 
 
@@ -16,7 +16,6 @@ Caso queira conversar comigo você pode me contatar através das redes abaixo:
 
 - <b>LinkedIn:</b> https://www.linkedin.com/in/matheusscarparo/
 - <b>E-mail:</b> mat.scarparo@gmail.com
-- <b>WhatsApp:</b> https://wa.me/5543991238859
 
 
 
